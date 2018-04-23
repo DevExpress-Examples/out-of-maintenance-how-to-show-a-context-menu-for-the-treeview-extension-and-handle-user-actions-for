@@ -1,0 +1,23 @@
+@{
+    ViewBag.Title = "How to show a context menu for the TreeView extension and handle user actions for different nodes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.DevExpress().TreeView(settings => {
+    settings.Name = "treeView";
+    settings.ClientSideEvents.Init = "treeView_OnInit";
+}).BindToSiteMap("~/App_Data/Feature.sitemap", false).GetHtml()
+
+@Html.DevExpress().PopupMenu(settings => {
+    settings.Name = "popupMenu";
+    settings.Items.Add(new MVCxMenuItem() { 
+        Name = "itmExpandCollapse",
+        Text = "Expand"
+    });
+    settings.Items.Add(new MVCxMenuItem() {
+        Name = "itmEnableDisable",
+        Text = "Enable"
+    });
+    settings.ClientSideEvents.PopUp = "popupMenu_OnPopUp";
+    settings.ClientSideEvents.ItemClick = "popupMenu_OnItemClick";
+}).GetHtml()
