@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode url="javascript:void(0);" title="Home Directory">
+    <siteMapNode url="javascript:void(1);" title="Core Concepts">
+      <siteMapNode url="javascript:void(2)" title="WebForms">
+        <siteMapNode url="javascript:void(3)" title="Page Processing">
+          <siteMapNode url="javascript:void(4)" title="HTML Forms" />
+          <siteMapNode url="javascript:void(5)" title="The ASP.NET Event Model" />
+          <siteMapNode url="javascript:void(6)" title="Automatic Postbacks" />
+        </siteMapNode>
+        <siteMapNode url="javascript:void(7)" title="Web Forms Processing Stages">
+          <siteMapNode url="javascript:void(8)" title="Page Framework Initialization" />
+          <siteMapNode url="javascript:void(9)" title="User Code Initialization" />
+          <siteMapNode url="javascript:void(10)" title="Validation" />
+          <siteMapNode url="javascript:void(11)" title="Event Handling" />
+          <siteMapNode url="javascript:void(12)" title="Automatic Data Binding" />
+        </siteMapNode>
+        <siteMapNode url="javascript:void(13)" title="Page Class" />
+      </siteMapNode>
+      <siteMapNode url="javascript:void(14)" title="Server Controls">
+        <siteMapNode url="javascript:void(15)" title="HTML Server Controls">
+          <siteMapNode url="javascript:void(16)" title="The HtmlControl Class" />
+          <siteMapNode url="javascript:void(17)" title="The HtmlContainerControl Class" />
+          <siteMapNode url="javascript:void(18)" title="The HtmlInputControl Class" />
+          <siteMapNode url="javascript:void(19)" title="The HTML Server Control Classes" />
+        </siteMapNode>
+        <siteMapNode url="javascript:void(20)" title="Web Controls" />
+        <siteMapNode url="javascript:void(21)" title="Input Validation Controls" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="javascript:void(22)" title="Data Access">
+      <siteMapNode url="javascript:void(23)" title="ADO.NET Fundamentals">
+        <siteMapNode url="javascript:void(24)" title="The ADO.NET Architecture" />
+        <siteMapNode url="javascript:void(25)" title="Transactions" />
+        <siteMapNode url="javascript:void(26)" title="Provider-Agnostic Code" />
+      </siteMapNode>
+      <siteMapNode url="javascript:void(27)" title="Data Binding">
+        <siteMapNode url="javascript:void(28)" title="Data Source Controls" />
+        <siteMapNode url="javascript:void(29)" title="SqlDataSource" />
+        <siteMapNode url="javascript:void(30)" title="ObjectDataSource">
+          <siteMapNode url="javascript:void(31)" title="Selecting Records" />
+          <siteMapNode url="javascript:void(32)" title="Updating Records" />
+        </siteMapNode>
+      </siteMapNode>
+      <siteMapNode url="javascript:void(33)" title="Caching" />
+      <siteMapNode url="javascript:void(34)" title="XML" />
+    </siteMapNode>
+    <siteMapNode url="javascript:void(35)" title="ASP.NET Websites">
+      <siteMapNode url="javascript:void(36)" title="UserControls">
+        <siteMapNode url="javascript:void(37)" title="Dynamically Loading User Controls" />
+        <siteMapNode url="javascript:void(38)" title="Partial Page Caching" />
+      </siteMapNode>
+      <siteMapNode url="javascript:void(39)" title="Themes and Master Pages">
+        <siteMapNode url="javascript:void(40)" title="Themes" />
+        <siteMapNode url="javascript:void(41)" title="Master Page" />
+      </siteMapNode>
+      <siteMapNode url="javascript:void(42)" title="Website Navigation" />
+      <siteMapNode url="javascript:void(43)" title="Resources and Localization" />
+    </siteMapNode>
+    <siteMapNode url="javascript:void(44)" title="Security">
+      <siteMapNode url="javascript:void(45)" title="Forms Authentication" />
+      <siteMapNode url="javascript:void(46)" title="Membership">
+        <siteMapNode url="javascript:void(47)" title="Login Control" />
+        <siteMapNode url="javascript:void(48)" title="PasswordRecovery Control" />
+        <siteMapNode url="javascript:void(49)" title="ChangePassword Control" />
+      </siteMapNode>
+      <siteMapNode url="javascript:void(50)" title="Windows Authentication" />
+      <siteMapNode url="javascript:void(51)" title="Authorization and Roles" />
+      <siteMapNode url="javascript:void(52)" title="Cryptography">
+        <siteMapNode url="javascript:void(53)" title="Encrypting Sensitive Data">
+          <siteMapNode url="javascript:void(54)" title="Managing Secrets" />
+          <siteMapNode url="javascript:void(55)" title="Encrypting Sensitive Data in a Database" />
+        </siteMapNode>
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="javascript:void(56)" title="Web Services">
+      <siteMapNode url="javascript:void(57)" title="Web Service Standards and Extensions">
+        <siteMapNode url="javascript:void(58)" title="WS-Interoperability" />
+        <siteMapNode url="javascript:void(59)" title="SOAP" />
+        <siteMapNode url="javascript:void(60)" title="WSDL" />
+      </siteMapNode>
+      <siteMapNode url="javascript:void(61)" title="Advanced Web Services" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
