@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/TreeViewContextMenu/Controllers/HomeController.cs)
+* [JSCustom.js](./CS/TreeViewContextMenu/Scripts/JSCustom.js)
+* [Index.cshtml](./CS/TreeViewContextMenu/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to show a context menu for the TreeView extension and handle user actions for different nodes
 
 
